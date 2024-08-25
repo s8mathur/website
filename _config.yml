@@ -1,7 +1,7 @@
 # These Jekyll settings are required by Github Pages
 lsi: false
 safe: true
-source: https://github.com/sid6mathur/website/
+source: https://github.com/sid6mathur/sid6mathur.github.io/
 incremental: false
 highlighter: rouge
 gist:
